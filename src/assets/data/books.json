@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "title": "The Clean Coder",
+    "author": "Robert C. Martin",
+    "status": "done",
+    "notes": "Great insights on professional software development. The chapter on saying no was particularly valuable.",
+    "lastUpdated": 1697299200000,
+    "version": 1
+  },
+  {
+    "id": "2",
+    "title": "Design Patterns",
+    "author": "Gang of Four",
+    "status": "reading",
+    "notes": "Currently on the Observer pattern chapter. Taking notes on when to use each pattern.",
+    "lastUpdated": 1697385600000,
+    "version": 1
+  },
+  {
+    "id": "3",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "status": "unread",
+    "notes": "",
+    "lastUpdated": 1697212800000,
+    "version": 1
+  },
+  {
+    "id": "4",
+    "title": "System Design Interview",
+    "author": "Alex Xu",
+    "status": "reading",
+    "notes": "Essential for tech interviews. The database sharding section is complex but well explained.",
+    "lastUpdated": 1697472000000,
+    "version": 1
+  },
+  {
+    "id": "5",
+    "title": "React Native in Action",
+    "author": "Nader Dabit",
+    "status": "done",
+    "notes": "Good introduction to React Native. Some sections are outdated but core concepts remain valid.",
+    "lastUpdated": 1697126400000,
+    "version": 1
+  },
+  {
+    "id": "6",
+    "title": "The Pragmatic Programmer",
+    "author": "David Thomas & Andrew Hunt",
+    "status": "unread",
+    "notes": "",
+    "lastUpdated": 1697040000000,
+    "version": 1
+  },
+  {
+    "id": "7",
+    "title": "Refactoring",
+    "author": "Martin Fowler",
+    "status": "reading",
+    "notes": "Learning about code smells and when to refactor. The extract method technique is very useful.",
+    "lastUpdated": 1697558400000,
+    "version": 1
+  },
+  {
+    "id": "8",
+    "title": "You Don't Know JS",
+    "author": "Kyle Simpson",
+    "status": "done",
+    "notes": "Deep dive into JavaScript fundamentals. The closures explanation finally clicked for me.",
+    "lastUpdated": 1696953600000,
+    "version": 1
+  },
+  {
+    "id": "9",
+    "title": "Building Mobile Apps at Scale",
+    "author": "Gergely Orosz",
+    "status": "unread",
+    "notes": "",
+    "lastUpdated": 1696867200000,
+    "version": 1
+  },
+  {
+    "id": "10",
+    "title": "Clean Architecture",
+    "author": "Robert C. Martin",
+    "status": "reading",
+    "notes": "Understanding the principles of good architecture. The dependency rule is key.",
+    "lastUpdated": 1697644800000,
+    "version": 1
+  },
+  {
+    "id": "11",
+    "title": "Effective TypeScript",
+    "author": "Dan Vanderkam",
+    "status": "unread",
+    "notes": "",
+    "lastUpdated": 1696780800000,
+    "version": 1
+  },
+  {
+    "id": "12",
+    "title": "The Algorithm Design Manual",
+    "author": "Steven S. Skiena",
+    "status": "reading",
+    "notes": "Working through the graph algorithms section. War stories are entertaining and educational.",
+    "lastUpdated": 1697731200000,
+    "version": 1
+  }
+]
